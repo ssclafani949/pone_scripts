@@ -4,7 +4,7 @@ import histlite as hl
 import pandas as pd
 import matplotlib.pyplot as plt
 
-leptoninj_high_stats = tables.open_file('/data/p-one/ssclafani/LI/LI_ranged_high_stats.hdf5')
+leptoninj_high_stats = tables.open_file('../data/LI_ranged_high_stats.hdf5')
 
 
 
