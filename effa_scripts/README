@@ -1,0 +1,12 @@
+workflow
+
+
+use effa_bands.py to produce effa plot for various zenith bands
+
+calc_effa_from_leptonweighter - to produce a 2d histogram
+
+create E_psi2_plot - an example of producing an Evspsi2 plot needed for sensitvity, currently uses outof date MC
+
+flux_to_events_PS-pone - combine all these to produce a ps senstivity
+
+flux_to_events_demo-pone-Template - my scripts to produce a template sensitivity
